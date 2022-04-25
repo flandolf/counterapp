@@ -13,7 +13,10 @@ Go to the `build\outputs\flutter-apk\` folder and run `adb install app-release.a
 ## Features
 - SavedPrefs
 - Dark / Light Mode
-
+## Other Libraries
+-   [shared_preferences](https://pub.dev/packages/shared_preferences)
+-   [url_launcher](https://pub.dev/packages/url_launcher)
+-   [flutter_linkify](https://pub.dev/packages/flutter_linkify)
 ## Contact Me!
 - [My website](https://dumpyy.xyz)
 - Telegram / @andywang14
