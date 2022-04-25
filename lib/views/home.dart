@@ -302,7 +302,7 @@ class _CounterState extends State<Counter> {
                       style: TextStyle(fontSize: 20),
                     ),
                     Linkify(
-                      onOpen: (link) => launchUrl(Uri.parse(link.url)),
+                      onOpen: (link) => launch(link.url),
                       text: "Github: https://github.com/dumpydev",
                       style: TextStyle(fontSize: 20),
                     ),
