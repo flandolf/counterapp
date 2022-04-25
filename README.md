@@ -2,15 +2,20 @@
 
 Coutner App
 
-## Getting Started
+## How to Install
+run `git clone https://github.com/dumpydev/counterapp.git`
+run `flutter build apk`
+Go to the `build\outputs\flutter-apk\` folder and run `adb install app-release.apk`
+# Download Link
+[Download Link](https://dumpyy.gq/files/counter.apk)
 
-This project is a starting point for a Flutter application.
+## Features
+- SavedPrefs
+- Dark / Light Mode
 
-A few resources to get you started if this is your first Flutter project:
+## Contact Me!
+- [My website](https://dumpyy.xyz)
+- Telegram / @andywang14
+- Discord / dumpy#6994
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
