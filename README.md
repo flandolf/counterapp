@@ -1,5 +1,6 @@
 # Counter ➕
-
+(https://img.shields.io/github/repo-size/dumpydev/counterapp?style=flat-square)
+(https://img.shields.io/github/license/dumpydev/counterapp?style=flat-square)  
 ## How to Install ⬅️
 run `git clone https://github.com/dumpydev/counterapp.git`  
 run `flutter build apk`   
