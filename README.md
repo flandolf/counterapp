@@ -3,9 +3,9 @@
 Coutner App
 
 ## How to Install
-run `git clone https://github.com/dumpydev/counterapp.git` \n
-run `flutter build apk` \n
-Go to the `build\outputs\flutter-apk\` folder and run `adb install app-release.apk` \n
+run `git clone https://github.com/dumpydev/counterapp.git`  
+run `flutter build apk`   
+Go to the `build\outputs\flutter-apk\` folder and run `adb install app-release.apk`   
 # Download Link
 [Download Link](https://dumpyy.gq/files/counter.apk)
 
